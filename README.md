@@ -1,6 +1,7 @@
 ## Hi, I'm Brian
->🤏🤏🎙️*soft tones* Is this thing on?
-> Did you hear about pluto? 🔵 That's messed up right.
+>🤏🤏🎙️Is this thing on?
+>
+> *soft tones* Did you hear about pluto? 🔵 That's messed up right.
 >
 > Currently working on a lot of side projects, and improving my online presence. 
 
