@@ -1,8 +1,11 @@
 ## Hi, I'm Brian
->🎙️*soft tones* Did you hear about pluto? 🔵 That's messed up right.]
+>🤏🤏🎙️*soft tones* Is this thing on?
+> Did you hear about pluto? 🔵 That's messed up right.
+>
+> Currently working on a lot of side projects, and improving my online presence. 
 
 ### current projects
-- 👸[CLI Coup-Like](https://github.com/SolidUmbrella/command-line-coup-like)
+- 👸**[CLI Coup-Like]**(https://github.com/SolidUmbrella/command-line-coup-like)
 
 
 <!--
