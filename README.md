@@ -5,7 +5,7 @@
 > Currently working on a lot of side projects, and improving my online presence. 
 
 ### current projects
-- 👸**[CLI Coup-Like](https://github.com/SolidUmbrella/command-line-coup-like)**
+- 👸[**CLI Coup-Like**](https://github.com/SolidUmbrella/command-line-coup-like)
 
 
 <!--
