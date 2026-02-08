@@ -4,7 +4,8 @@
 > Currently working on a lot of side projects, and improving my online presence. 
 
 ### current projects
-- 👸[**CLI Coup-Like**](https://github.com/SolidUmbrella/command-line-coup-like)
+- 👸[**CLI Coup-Like**](https://github.com/SolidUmbrella/command-line-coup-like) : Play coup with your freinds in the command line.
+- ⌨️ [**Type Noir**](https://github.com/SolidUmbrella/typenoir) : A noir themed spelling game, made with pygame.
 
 
 <!--
