@@ -6,7 +6,7 @@
 ### current projects
 - 👸[**CLI Coup-Like**](https://github.com/SolidUmbrella/command-line-coup-like) : Play coup with your freinds in the command line.
 - ⌨️ [**Type Noir**](https://github.com/SolidUmbrella/typenoir) : A noir themed spelling game, made with pygame.
-- 🍴 [**LittlePantry**](https://github.com/SolidUmbrella/little-pantry) : An adaptation of a basic langchain agent
+- 🍴 [**LittlePantry**](https://github.com/SolidUmbrella/littlepantry) : An adaptation of a basic langchain agent
 
 
 <!--
